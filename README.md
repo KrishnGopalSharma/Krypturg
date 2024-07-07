@@ -2,7 +2,7 @@
 
 Welcome to **Krypturg** 🎉, an e-commerce platform specialized in selling computer peripheral parts. This project utilizes basic web technologies for the frontend and Java J2EE Servlets for the backend, coupled with a MySQL database for data storage.
 
-![Krypturg Banner]([https://via.placeholder.com/1000x300.png?text=Krypturg+E-Commerce+Website](https://media.istockphoto.com/id/483147081/photo/futuristic-circuit-board-blue-with-electrons.jpg?s=612x612&w=0&k=20&c=cOlFe3m-qcm4zTmCKxVmX4huAlW9mpwaR2oPZhZjqK0=)) <!-- Placeholder for a banner image -->
+![Krypturg Banner]([[https://via.placeholder.com/1000x300.png?text=Krypturg+E-Commerce+Website](https://media.istockphoto.com/id/483147081/photo/futuristic-circuit-board-blue-with-electrons.jpg?s=612x612&w=0&k=20&c=cOlFe3m-qcm4zTmCKxVmX4huAlW9mpwaR2oPZhZjqK0=)](https://images.unsplash.com/photo-1562408590-e32931084e23?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)) <!-- Placeholder for a banner image -->
 
 ## ✨ Features
 
